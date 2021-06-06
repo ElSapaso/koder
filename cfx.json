@@ -1,3 +1,5 @@
-CEGADORES = {
-  'code' : 'p5job8'
+{
+  "CEGADORES":{
+    "code":"p5job8"
+  }
 }
